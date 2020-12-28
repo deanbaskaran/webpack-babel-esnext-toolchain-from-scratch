@@ -1,7 +1,6 @@
 # webpack+babel+esnext toolchain from scratch
-23-12-20
 
-webpack+babel+esnext toolchain - the absolute minimum
+webpack+babel+esnext toolchain - the absolute minimum (23-12-20)
 ```bash
 npm start
 ```
